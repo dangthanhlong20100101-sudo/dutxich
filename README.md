@@ -8,3 +8,5 @@ cho thuê xe phượt bụi thoải mái đê!!
 28/9/2026 Lê Nguyễn, Thành Long đã hoàn thành bảng quản lý khách hàng
 
 28/9/2026 Lê Nguyễn, Thành Long làm xong code java để tài Cửa hàng cho thuê xe phượt bụi
+
+29/9/2026 Danh Tấn Lộc hoàn thành phân tích cửa hàng
